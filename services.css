@@ -1,0 +1,22 @@
+body{
+    background-image: url("/images/aaaa.jpg");
+}
+h1 {
+    color: aliceblue;
+    background-color: red;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }  
